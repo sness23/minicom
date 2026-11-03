@@ -1,35 +1,10 @@
 {
-  "caller_count": 1342,
+  "caller_count": 1337,
   "last_callers": [
     {
-      "handle": "T",
-      "city": "V",
-      "when": "2026-11-02 21:54"
-    },
-    {
-      "handle": "T",
-      "city": "V",
-      "when": "2026-11-02 21:53"
-    },
-    {
-      "handle": "A",
-      "city": "B",
-      "when": "2026-11-02 21:52"
-    },
-    {
-      "handle": "T",
-      "city": "V",
-      "when": "2026-11-02 21:52"
-    },
-    {
-      "handle": "T",
-      "city": "V",
-      "when": "2026-11-02 21:51"
-    },
-    {
-      "handle": "Tester",
-      "city": "Victoria",
-      "when": "2026-11-02 21:49"
+      "handle": "sness",
+      "city": "vic",
+      "when": "2026-11-02 21:59"
     },
     {
       "handle": "Night Owl",
