@@ -1,0 +1,5 @@
+Q: Why is my modem screaming?
+A: That is the handshake. It is happy.
+
+Q: Why did I get disconnected?
+A: Someone picked up the phone.

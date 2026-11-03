@@ -1,0 +1,73 @@
+{
+  "caller_count": 1342,
+  "last_callers": [
+    {
+      "handle": "T",
+      "city": "V",
+      "when": "2026-11-02 21:54"
+    },
+    {
+      "handle": "T",
+      "city": "V",
+      "when": "2026-11-02 21:53"
+    },
+    {
+      "handle": "A",
+      "city": "B",
+      "when": "2026-11-02 21:52"
+    },
+    {
+      "handle": "T",
+      "city": "V",
+      "when": "2026-11-02 21:52"
+    },
+    {
+      "handle": "T",
+      "city": "V",
+      "when": "2026-11-02 21:51"
+    },
+    {
+      "handle": "Tester",
+      "city": "Victoria",
+      "when": "2026-11-02 21:49"
+    },
+    {
+      "handle": "Night Owl",
+      "city": "Halifax",
+      "when": "1996-03-14 02:11"
+    },
+    {
+      "handle": "Ratchet",
+      "city": "Winnipeg",
+      "when": "1996-03-14 01:42"
+    },
+    {
+      "handle": "Byte Bandit",
+      "city": "Tacoma",
+      "when": "1996-03-13 23:05"
+    }
+  ],
+  "messages": [
+    {
+      "from": "Sysop Doc",
+      "to": "All",
+      "subj": "Welcome to NEXUS!",
+      "date": "1996-03-01",
+      "body": "Welcome aboard. Be excellent to each other, no warez,\nand please do not tie up the line for more than an hour.\nMy mom needs the phone in the morning.\n\n-- Doc"
+    },
+    {
+      "from": "Night Owl",
+      "to": "All",
+      "subj": "14.4 modem for sale",
+      "date": "1996-03-09",
+      "body": "Upgraded to a 28.8, so my old 14.4 external is up for\ngrabs. Works great, slight burn smell. $40 OBO."
+    },
+    {
+      "from": "Ratchet",
+      "to": "Night Owl",
+      "subj": "Re: 14.4 modem for sale",
+      "date": "1996-03-10",
+      "body": "> slight burn smell\n\nI'll give you $15 and a box of 3.5\" floppies."
+    }
+  ]
+}
